@@ -1,0 +1,6 @@
+Cola 200 calories
+Milk 100 calories
+Beer 150 calories
+Wine 400 calories
+true
+false
